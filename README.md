@@ -102,37 +102,6 @@ Confusion matrix showing classification performance across all classes.
 
 ---
 
-## Project Structure
-
-```bash
-Research-Patchouli_leaf_classification_model/
-│
-├── dataset/
-├── notebooks/
-├── models/
-├── Nilam90/
-│   ├── e2_feature_importance.png
-│   ├── tuning_comparison.png
-│   ├── e2_confusion_matrix.png
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/4rch-Ey0Exe/Research-Patchouli_leaf_classification_model.git
-
-cd Research-Patchouli_leaf_classification_model
-
-pip install -r requirements.txt
-```
-
----
-
 ## Future Development
 - Mobile application integration
 - Real-time disease detection
